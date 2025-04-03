@@ -1,10 +1,10 @@
 <h3 align="center"> Leclerc Christopher </h3>
 
-- 🔭 I’m currently working on **Python and Game's project**
+- 🔭 I’m currently working on **Java and Game's project**
 
-- 🌱 I’m currently learning **Python !**
+- 🌱 I’m currently learning **Java !**
 
-- 💬 Ask me about **I'm looking for a work-study contract in python!**
+- 💬 Ask me about **I'm looking for a work-study contract in Java !**
 
 <p align="left">
 </p>
